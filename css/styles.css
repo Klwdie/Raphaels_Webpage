@@ -1,0 +1,102 @@
+ {
+	box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	word-wrap: break-word;
+}
+
+body {
+	font-size: ;
+	color: ;
+	background-color: ;
+	font-family: , ;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: blanchedalmond;
+	border-radius: 0;
+	border: 0;
+	padding: 10px;
+	border-bottom: 2px solid wheat;
+}
+
+#pfp-img {
+	width: 128px;
+	height: 128px;
+	/**object-fit: scale-down;**/
+	margin: 0px;
+	padding: 0px;
+	border-radius: 50% !important;
+	/**border-top: 2px solid sandybrown;**/
+	object-fit: cover;
+	border: 2px solid wheat;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	vertical-align: middle;
+	box-sizing: content-box;
+}
+
+div.container {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.navbar-brand h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: pink;
+	line-height: .75;
+	/**text-shadow: 1px 1px 1px #222;**/
+	padding-top: 10px;
+}
+
+div.navbar-brand {
+}
+
+.navbar-brand {
+	a:hover, a:link, a:focus {
+		text-decoration: none!important;
+	}
+	background-color: ;
+	padding-left: 150px;
+}
+
+.navbar-brand p {
+	color: skyblue;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: .7em;
+	margin-top: 15px;
+}
+
+.navbar-brand p span {
+	vertical-align: middle;
+}
+
+.navbar-brand a span {
+
+}
+
+#WIP {
+	color: black;
+	font-size: 2em;
+	font-weight: bolder;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.black {
+	background-color: ;
+	height: 200px;
+}
+
+.yellow {
+	background-color: ;
+	height: 200px;
+}
