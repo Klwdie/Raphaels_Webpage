@@ -91,6 +91,15 @@ div.navbar-brand {
 	padding-top: 100px;
 }
 
+#GITHUB {
+	a:hover, a:link, a:focus {
+		text-decoration: none!important;
+	}
+	text-align: center;
+	padding-top: 10px;
+	color: black;
+}
+
 .black {
 	background-color: ;
 	height: 200px;
